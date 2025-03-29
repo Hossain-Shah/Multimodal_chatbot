@@ -1,1 +1,6 @@
-# Multimodal_chatbot
+# Multimodal chatbot
+
+## Features:
+- Multimodal communication(Text, Image etc)
+- Asynchronous communication
+- System understanding
