@@ -12,4 +12,15 @@
 - Asynchronous communication
 - System understanding
 - Multimodal trained model(Text, Image etc)
-- LORA(Low Rank Adaptation)
+- Low Rank Adaptation
+
+## Technology:
+- Llama index
+- Gemini
+- Pydantic
+- Diffusers
+- CLIP
+- BLIP
+- LORA
+- UNET
+- Autoencoder
