@@ -10,3 +10,10 @@ pillow
 requests
 matplotlib
 pydantic
+pandas
+torchvision
+torch
+transformers
+tqdm
+diffusers
+json
